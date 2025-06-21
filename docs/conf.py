@@ -8,8 +8,9 @@ exclude_patterns = []
 
 html_theme = 'alabaster'
 html_static_path = ['_static']
+ html_favicon = ['_static/canon-logo.png']
+
 
 html_js_files = [
     '_static/chat.js',
 ]
- html_favicon = ['_static/canon-logo.png']
