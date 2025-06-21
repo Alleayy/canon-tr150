@@ -12,5 +12,5 @@ html_static_path = ['_static']
 
 
 html_js_files = [
-    '_static/chat.js',
+    'chat.js',
 ]
