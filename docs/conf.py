@@ -13,4 +13,4 @@ html_js_files = [
     'chat.js',
     '_static/chat.js',
 ]
- html_favicon = '_static/canon-logo.png'
+ html_favicon = ['_static/canon-logo.png']
